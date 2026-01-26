@@ -1,7 +1,7 @@
-# AbhisiktAcommits
+# Abhijit Info
 
 <p align="center">
-  <img src="https:/C:/Users/abhijit/Downloads/11602236_21004063.svg" alt="banner" width="100%" />
+  <img src="file:///C:/Users/abhijit/Downloads/11602236_21004063.svg" alt="banner" width="100%" />
 </p>
 
 ## Hello — welcome to my GitHub
