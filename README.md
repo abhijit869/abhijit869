@@ -36,7 +36,6 @@
     <th align="left">Languages</th>
     <td>
       <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
-      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
       <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
       <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
       <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
@@ -46,12 +45,11 @@
   <tr>
     <th align="left">Frameworks and Libraries</th>
     <td>
-      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
-      <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux"/>
       <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"/>
       <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS"/>
       <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
-      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"/>
+      <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="Numpy"/>
+      <img src="https://skillicons.dev/icons?i=metasploit" height="40" alt="Metasploit"/>
     </td>
   </tr>
   <tr>
@@ -59,14 +57,16 @@
     <td>
       <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
       <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
-      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/>
-      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+      <img src="https://skillicons.dev/icons?i=cursor" height="40" alt="Cursor"/>
+      <img src="https://skillicons.dev/icons?i=kaggle" height="40" alt="Kaggle"/>
+      <img src="https://skillicons.dev/icons?i=colab" height="40" alt="Colab"/>
       <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
     </td>
   </tr>
   <tr>
     <th align="left">Machine Learning</th>
     <td>
+      <img src="https://skillicons.dev/icons?i=scikit learn" height="40" alt="Scikit Learn"/>
       <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow"/>
       <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch"/>
     </td>
@@ -75,6 +75,8 @@
     <th align="left">Operating Systems</th>
     <td>
       <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows"/>
+      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+      <img src="https://skillicons.dev/icons?i=parrotos" height="40" alt="Parrot OS"/>
     </td>
   </tr>
 </table>
