@@ -86,8 +86,6 @@
       <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="36" title="Cursor"/>
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="36" title="Kaggle"/>
       <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" height="36" title="Google Colab"/>
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="36" title="Canva"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="36" title="Figma"/>
     </td>
   </tr>
 
@@ -100,11 +98,18 @@
     </td>
   </tr>
 
+   <tr>
+    <td align="center"><b>Database</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="36" title="Mongodb"/>
+      <img src="https://skillicons.dev/icons?i=mysql" height="36" title="Mysql"/>
+    </td>
+  </tr>
+
   <tr>
     <td align="center"><b>Operating<br/>Systems</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=windows" height="36" title="Windows"/>
-      <img src="https://skillicons.dev/icons?i=linux" height="36" title="Linux"/>
       <img src="https://skillicons.dev/icons?i=kali" height="36" title="Kali Linux"/>
     </td>
   </tr>
