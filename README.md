@@ -23,7 +23,7 @@
 🎓 **Sophomore:** BTech in Computer Science and Engineering  
 🌱 Currently learning **Web Dev**, **AI/ML** & most importantly — to LIVE!  
 🚀 **Hackathon Participant** | Passionate about Engineering Solutions  
-💡 **Hobbies:** Crochet · Dance · Drawing · Writing  
+💡 **Hobbies:** Gaming · Drawing · Writing · Tour
 
 <br/>
 
@@ -32,7 +32,7 @@
 </td>
 <td valign="top" width="42%" align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" alt="Coding girl illustration" style="border-radius:12px"/>
+<img src="https://cdn.dribbble.com/userupload/26120794/file/original-d81fdd8acced6c9bbb04fa16c587bffe.png?resize=752x&vertical=center" width="280" alt="Coding boy illustration" style="border-radius:12px"/>
 
 </td>
 </tr>
