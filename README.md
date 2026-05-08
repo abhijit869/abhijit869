@@ -66,7 +66,7 @@
   <tr>
     <th align="left">Machine Learning</th>
     <td>
-      <img src="https://skillicons.dev/icons?i=scikit learn" height="40" alt="Scikit Learn"/>
+      <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit Learn"/>
       <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow"/>
       <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch"/>
     </td>
@@ -76,7 +76,7 @@
     <td>
       <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows"/>
       <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
-      <img src="https://skillicons.dev/icons?i=parrotos" height="40" alt="Parrot OS"/>
+      <img src="https://skillicons.dev/icons?i=kali" height="40" alt="Parrot OS"/>
     </td>
   </tr>
 </table>
@@ -123,7 +123,7 @@ I am a Computer Science undergraduate with a strong interest in **software engin
 
 ## 🎮 Hobbies
 
-Game Dev · Gaming · Drawing · Content Writing · Crochet · Dance
+Game Dev · Gaming · Drawing
 
 ---
 
@@ -135,4 +135,3 @@ Game Dev · Gaming · Drawing · Content Writing · Crochet · Dance
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B8FA8,100:4B4453&height=100&section=footer" width="100%" />
 </p>
-
