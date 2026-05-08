@@ -21,13 +21,12 @@
 
 🧑‍💻 **About me:** Passionate CSE Undergrad & A Tech Enthusiast  
 🎓 **Sophomore:** BTech in Computer Science and Engineering  
-🌱 Currently learning **Web Dev**, **AI/ML** & most importantly — to LIVE!  
+🌱 Currently learning **Web Dev**, **AI/ML** , **Ethical Hacker**  
 🚀 **Hackathon Participant** | Passionate about Engineering Solutions  
 💡 **Hobbies:** Gaming · Drawing · Writing · Tour
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."*
 
 </td>
 <td valign="top" width="42%" align="center">
@@ -71,6 +70,7 @@
       <img src="https://skillicons.dev/icons?i=nextjs" height="36" title="Next.js"/>
       <img src="https://skillicons.dev/icons?i=tailwind" height="36" title="Tailwind CSS"/>
       <img src="https://skillicons.dev/icons?i=nodejs" height="36" title="Node.js"/>
+      <img src="https://skillicons.dev/icons?i=flask" height="36" title="flask"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="36" title="NumPy"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="36" title="Pandas"/>
       <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" height="36" title="Metasploit"/>
@@ -121,12 +121,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijit869&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijit869&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=abhijit869&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="500"/>
 </p>
 
@@ -163,7 +157,7 @@ I am a Computer Science undergraduate with a strong interest in **software engin
 
 ## 🔭 Current Focus
 
-- Building full-stack web apps with **React** and **Node.js**
+- Building full-stack web apps with **Flask** and **Node.js**
 - Learning **TensorFlow / PyTorch** fundamentals and model deployment
 - Improving test coverage, CI workflows, and documentation practices
 
